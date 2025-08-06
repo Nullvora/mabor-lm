@@ -3,7 +3,7 @@
 <img src="./assets/burn-blue.webp" width="350px"/>
 <h1>Mabor LM</h1>
 
-[![Discord](https://img.shields.io/discord/1038839012602941528.svg?color=7289da&&logo=discord)](https://discord.gg/uPEBbYYDB6)
+[![Discord](https://img.shields.io/discord/1038839012602941528.svg?color=7289da&&logo=discord)]
 ![license](https://shields.io/badge/license-MIT%2FApache--2.0-blue)
 
 ---
