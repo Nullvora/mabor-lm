@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/mabor_logo.png" width="350px"/>
+<img src="./assets/mabor.png" width="350px"/>
 <h1>Mabor LM</h1>
 
 ![Discord](https://img.shields.io/discord/1038839012602941528.svg?color=7289da&&logo=discord)
